@@ -1,0 +1,6 @@
+{
+  "name": "FINMATE – Smart Accounting & Business Management System",
+  "description": "Enterprise-grade smart accounting and business management desktop system featuring double-entry bookkeeping, real-time relational SQL database, inventory control, automated invoicing, financial health scoring, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
